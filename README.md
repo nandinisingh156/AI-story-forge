@@ -34,6 +34,8 @@ AI-story-forge
 
 ├── static/
 
+[AI StoryForge Banner](cover.png)
+
 └── screenshots/
 
 ## Installation
