@@ -2,6 +2,14 @@
 
 AI StoryForge is an AI-powered storytelling platform that creates personalized stories using Ollama and Flask.
 
+![AI StoryForge Banner](cover.png)
+
+AI StoryForge is an AI-powered storytelling platform built with Flask and Ollama that generates personalized stories based on user-selected themes, genres, and story types, with PDF export support.
+
+## Demo Video
+
+🎥 [Watch Demo Video](demo.mp4)
+
 ## Features
 
 * AI Story Generation
@@ -33,8 +41,6 @@ AI-story-forge
 ├── templates/
 
 ├── static/
-
-[AI StoryForge Banner](cover.png)
 
 └── screenshots/
 
