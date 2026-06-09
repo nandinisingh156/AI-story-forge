@@ -40,7 +40,7 @@ AI-story-forge
 
 Clone the repository:
 
-git clone https://github.com/yourusername/AI-story-forge.git
+git clone https://github.com/nandinisingh156/AI-story-forge.git
 
 Install dependencies:
 
